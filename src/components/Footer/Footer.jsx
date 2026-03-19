@@ -108,7 +108,7 @@ const Footer = () => {
         {/* Quick Links Column */}
         <div className="lg:col-span-1">
           <h4 className="text-lg font-bold text-white mb-6 flex items-center gap-3">
-            Quick Links shalini
+            Quick Links shalini Boopathi Gopika
           </h4>
           <ul className="space-y-3">
             {['Home', 'About Us', 'Products', 'Services', 'EPC', 'Clientele', 'Contact Us'].map((item) => (
