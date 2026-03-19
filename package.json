@@ -1,0 +1,27 @@
+{
+  "name": "MANDV_130326",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "@vitejs/plugin-react": "^4.7.0",
+    "autoprefixer": "^10.4.27",
+    "framer-motion": "^12.36.0",
+    "lucide-react": "^0.577.0",
+    "postcss": "^8.5.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scroll": "^1.9.3",
+    "tailwindcss": "^4.2.1",
+    "vite": "^6.4.1"
+  }
+}
